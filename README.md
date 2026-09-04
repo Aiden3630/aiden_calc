@@ -6,6 +6,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Version](https://img.shields.io/badge/version-3.3-2563EB)
 
+[![Скачать APK](https://img.shields.io/badge/Скачать_APK-v3.3-2563EB?logo=github&logoColor=white)](https://github.com/Aiden3630/aiden_calc/releases/download/v3.3/Aiden-Calculator-3.3.apk)
+
 ## О проекте
 
 Aiden Calculator выглядит и работает как привычный калькулятор. Помимо обычных вычислений, внутри приложения есть защищённое личное пространство, которое открывается только после ввода кода доступа или подтверждения биометрией.
@@ -52,5 +54,5 @@ Aiden Calculator выглядит и работает как привычный 
 
 - Версия приложения: **3.3**
 - Поддерживается Android **8.0 и новее**
-- Рабочая версия существует в формате Android APK
+- [Скачать рабочую версию в формате APK](https://github.com/Aiden3630/aiden_calc/releases/tag/v3.3)
 - Веб-версии нет — проект создан специально для Android
