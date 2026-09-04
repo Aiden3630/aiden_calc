@@ -1,0 +1,4 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/launcher_notes_background" />
+    <item android:drawable="@drawable/ic_launcher_notes_foreground" />
+</layer-list>

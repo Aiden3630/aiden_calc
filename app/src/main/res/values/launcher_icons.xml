@@ -1,0 +1,6 @@
+<resources>
+    <color name="launcher_calculator_background">#F4F7F5</color>
+    <color name="launcher_scanner_background">#EAF2F8</color>
+    <color name="launcher_notes_background">#FFF6D9</color>
+    <color name="launcher_thrones_background">#000000</color>
+</resources>

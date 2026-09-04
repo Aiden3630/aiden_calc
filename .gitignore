@@ -1,0 +1,8 @@
+.gradle/
+.kotlin/
+.idea/
+.tools/
+local.properties
+**/build/
+*.iml
+/aiden-calculator-debug.apk
