@@ -5,4 +5,13 @@
 local.properties
 **/build/
 *.iml
-/aiden-calculator-debug.apk
+*.apk
+
+# Local tooling and working notes
+/.codebase-memory/
+/$dest/
+/AGGGv1.5/
+/DebiForeverProfile3.2-BOOST/
+/ANDROID_STUDIO_LOG_GUIDE.md
+/AUDIT.md
+/install.ps1
